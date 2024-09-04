@@ -1,5 +1,8 @@
-# Shell
+# Unix-like Shell
 
-# Unix-like Shell designed in C while I was enrolled in
-# a Computer Systems course during my Spring '24
-# semester at the University of Maryland
+# This program acts as a Unix-like Shell to allow the user
+# to interact with the Kernel.e
+
+# This project was designed during a Computer Systems course 
+# I took during my Spring '24 semester at the 
+# University of Maryland
